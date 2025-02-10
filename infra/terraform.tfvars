@@ -1,4 +1,4 @@
-bucket_name = "dev-proj-1-remote-state-bucket"
+bucket_name = "dev-proj-8-remote-state-bucket"
 name        = "environment"
 environment = "dev-1"
 
@@ -8,9 +8,9 @@ cidr_public_subnet   = ["10.0.1.0/24", "10.0.2.0/24"]
 cidr_private_subnet  = ["10.0.3.0/24", "10.0.4.0/24"]
 eu_availability_zone = ["eu-central-1a", "eu-central-1b"]
 
-public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDwmgMHFJE7J4qepIzAZL3/yC6J0zsEAb/oHYL+WBBDNUjSH4TeHUnHVNe9b/pyPcub+O/HNvlGrzSxUp0xT0b3O7kkTtgBKiG8NaBbonj+c7byfOGER80DYxc5adlBltuIDd8StFe7OMzbYyUSr1mdxDTIWm/OoE39G/fu3hTqUGkykv072GAy8nMFejITRw9pf+53B9ziE5rsdOUH4uqBiQa/Ng/qKo7h9MtJGcloRATYiObXwAgrHtt3sDrtvkq2ZceT906/BJm1Twlm+BHlQecHV18Ak3bzm/6HzlsA/q+yORsoB+VxSUxvVy0nXTc1X8vJAD4KSYVL5DTrpisdnQAIcuqAbea+LMku2o4sdnrrIlUi8/8BXeVbI4TNNGd0+sWpCVcDEhb4gyA/XXTvloQyjTYrL4+am/9XEY6NGdsrPK74sjvtpUZPUrmzTJ/mJWG5ncGY88GAj+YZAsY5pnAqh2CkR2TUpglugldnWyrppbe2QyC9iQkgUGSkBTs= rahulwagh@Rahuls-MacBook-Pro.local"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCkfhTOcp+zn6AakgQXFKnheWLiGsAsj44AVynn62cN3jQuAPg4TZOwASspDbAQOPDROuJuhoXAzkO5vIViBrpkjW17ghcUYex8lIqWFfniBtF1H/RsG6tbPZktgv/KDTzU/NKcQdDFyLxiRKs9ILAQQ3705bY1T1LcFJpwDrfKoJSDEdD5QVGCCpaDe8rpk3zytot00LX0YNwRtYetTILxDmZB4M3urvC+s+ghlRO8IG6S6yMdtjT/lOA5jax98T2EOyoIZgAuhEezWgmBZ1vDPy3BpgG2upCjY+1jAaUgC5TDNQUzeR7ezcFk0TmX0q/Zme+xwRocfo+1IkKA2m0EEHkbi4xSQEkUr/Xr4gQuSJplcpG79uZ1XIO3qf+GoKvHAac8UCoHAeUavgtQZjKc2KQnV7qOgUaYA50gz8mN99rSBPMCSJcCD98Q9LxjKqVyJLlAD1in3UTelOj84+pCoGZFblWFyrrC5z8j5ZUqSwI1K8a51hoTYIc2tng8zmmnaC/b+UyIV9PjKoyA7J8pmfrHelLqHqrMGyVAWr5SySl6LlLw2B6XvYVlHB0tMal8Vjp5nwQzmJBHx+AWFFXYKBFoDexu05c35BRvqTVwM8MHWTugOSxKfhv2l0mu10G0lf1R3mYwq4ld1aQHMSgOxJo6+fGACIy3Hua7AEu+tQ== okonk@DESKTOP-LB3QEHF"
 ec2_ami_id     = "ami-06dd92ecc74fdfb36"
 
 ec2_user_data_install_apache = ""
 
-domain_name = "jhooq.org"
+domain_name = "lyndanwabudikesoprano.com"
